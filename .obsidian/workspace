@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "90b1c88d403f3b88",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6daf06df896c6bf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-07-03.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d98eabb5b80e5ff8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ad5476b71845193",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4691b2aaf52883be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cd7a31c0f364251",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4dc465341fd19e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3063975140d72f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aef98e65a82f225f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-07-03.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a6daf06df896c6bf",
+  "lastOpenFiles": [
+    "2022-07-03.md"
+  ]
+}
